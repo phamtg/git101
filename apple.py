@@ -1,0 +1,1 @@
+print("APPLE IS OK")
