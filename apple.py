@@ -1,1 +1,1 @@
-print("APPLE IS OK")
+print("APPLE is best computer")
